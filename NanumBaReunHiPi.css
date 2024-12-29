@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumBaReunHiPi';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBaReunHiPi/NanumBaReunHiPi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBaReunHiPi/NanumBaReunHiPi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBaReunHiPi/NanumBaReunHiPi.ttf') format('truetype');
+}
